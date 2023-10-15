@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf01c32-1b83-4e0d-8194-1ef56f0c4ac6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WWacJsVlKvujxBdM1VD6Tt7ArP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pooja/OneDrive/Desktop/springboot/SpringBoot Prog/MyWebApp/src/main/resources/templates&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mycompany.user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pooja\OneDrive\Desktop\springboot\SpringBoot Prog\MyWebApp\src\main\resources\templates" />
+      <recent name="C:\Users\pooja\OneDrive\Desktop\springboot\SpringBoot Prog\MyWebApp\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pooja\OneDrive\Desktop\springboot\SpringBoot Prog\MyWebApp\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyWebAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="MyWebApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mycompany.MyWebAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf01c32-1b83-4e0d-8194-1ef56f0c4ac6" name="Changes" comment="" />
+      <created>1696850869567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696850869567</updated>
+      <workItem from="1696850870659" duration="12667000" />
+      <workItem from="1696871071668" duration="8692000" />
+      <workItem from="1696919676137" duration="5020000" />
+      <workItem from="1696934336233" duration="2220000" />
+      <workItem from="1696939776965" duration="662000" />
+      <workItem from="1696945819309" duration="5006000" />
+      <workItem from="1696959431625" duration="1496000" />
+      <workItem from="1697031055479" duration="4710000" />
+      <workItem from="1697043717430" duration="6437000" />
+      <workItem from="1697050390372" duration="34000" />
+      <workItem from="1697090879258" duration="620000" />
+      <workItem from="1697108411834" duration="2263000" />
+      <workItem from="1697123018610" duration="1331000" />
+      <workItem from="1697132652586" duration="1320000" />
+      <workItem from="1697176351612" duration="483000" />
+      <workItem from="1697176861222" duration="82000" />
+      <workItem from="1697177254771" duration="1369000" />
+      <workItem from="1697193863346" duration="7404000" />
+      <workItem from="1697211015783" duration="713000" />
+      <workItem from="1697305055713" duration="8556000" />
+      <workItem from="1697352648580" duration="2535000" />
+      <workItem from="1697362518096" duration="4498000" />
+      <workItem from="1697375813539" duration="4935000" />
+      <workItem from="1697387752068" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
